@@ -1,0 +1,6 @@
+{
+  "name": "Симулятор Перекупа",
+  "description": "Полноценный веб-симулятор реселлера электроники и авто: торг, диагностика, ремонт, аукционы и управление бизнесом.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
